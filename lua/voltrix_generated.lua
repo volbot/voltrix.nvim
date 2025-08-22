@@ -1,8 +1,8 @@
 local generated = {} 
  generated.palette = { 
-     dark0_hard = "#090609", 
-     dark0 = "#271a27", 
-     dark0_soft = "#462f46", 
+     dark0_hard = "#161220", 
+     dark0 = "#2c2441", 
+     dark0_soft = "#433761", 
      dark1 = "#3c3836", 
      dark2 = "#504945", 
      dark3 = "#665c54", 
@@ -53,6 +53,6 @@ local generated = {}
      light_aqua_hard = "#e6e9c1", 
      light_aqua = "#e8e5b5", 
      light_aqua_soft = "#e1dbac", 
-     gray = "#867986", 
+     gray = "#7d7986", 
  } 
  return generated 
